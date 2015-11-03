@@ -2,6 +2,8 @@
 //  GravityInduction.h
 //  BuFu
 //
+//  联系开发者:QQ1397819210
+//
 //  Created by 郑鹏 on 15/11/3.
 //  Copyright © 2015年 Hangzhou Huifeng Technology Co., Ltd. All rights reserved.
 //
